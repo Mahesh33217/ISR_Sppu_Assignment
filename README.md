@@ -16,4 +16,4 @@
 |[Assignment_6](ISR_ASSIGNMENT_BE_IT/ISR_ASSIGNMENT_NO_6)|To Implement a program for feature extraction in 2D color images (any features like color, texture etc. and to extract features from input image and plot histogram for the features.| [Click Here](https://youtu.be/7fuhEwsq2xs) |
 
 
-<p align='center'>Visitors Count <br><img align="center" alt="Repo Visitors" src="https://github.com/Mahesh33217/ISR_Sppu_BE_IT_Assignment.git"/></p>
+<p align='center'>Visitors Count <br><img align="center" alt="Repo Visitors" src="https://profile-counter.glitch.me/ISR_Sppu_BE_IT_Assignment/count.svg"/></p>
